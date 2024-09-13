@@ -101,7 +101,7 @@ the pitch.
 <strong><a href="https://carpentries.org">The Carpentries</a></strong> project comprises the Software Carpentry, Data Carpentry, and
 Library Carpentry communities of Instructors, Trainers, Maintainers,
 helpers, and supporters who share a mission to teach foundational computational and data science
-skills to researchers.
+skills.
 
 {% if site.carpentry == "swc" %}
 {% include swc/intro.html %}
@@ -221,16 +221,6 @@ special instructions.
   We do not require participants to provide documentation of disabilities or disclose any unnecessary personal information. 
   However, we do want to help create an inclusive, accessible experience for all participants. 
   We encourage you to share any information that would be helpful to make your Carpentries experience accessible.
-  To request an accommodation for this workshop, please fill out the 
-  <a href="https://carpentries.typeform.com/to/B2OSYaD0">accommodation request form</a>.
-  If you have questions or need assistance with the accommodation form please <a href="mailto:team@carpentries.org">email us</a>.
-</p>
-<p>
-  <a href="https://glosario.carpentries.org/">Glosario</a> is a multilingual glossary 
-  for computing and data science terms. The glossary helps 
-  learners attend workshops and use our lessons to make sense of computational and programming jargon written in English by offering it 
-  in their native language. Translating data science terms also provides a teaching tool for Carpentries Instructors to reduce barriers 
-  for their learners.
 </p>
 
 {% comment %}
@@ -281,9 +271,9 @@ Edit the text to match who can attend the workshop. For instance:
 
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
-    This workshop is open to ....
+    This workshop is open to Varsity College PMB BCAD1 students.
 </p>
-{% endcomment %}
+
 
 <hr/>
 
