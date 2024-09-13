@@ -254,7 +254,8 @@ Display the contact email address set in the configuration file.
   refer to <a href="https://carpentries.org/workshop_faq/#what-are-the-roles-of-everyone-participating-in-a-workshop">our Workshop FAQ</a>.
 </p>
 
-{% comment %}
+{% comment %} 
+{% endcomment %}
 WHO CAN ATTEND?
 
 If you would like to specify who can attend the workshop,
